@@ -1,0 +1,1 @@
+This project is to create a random password generator that takes user inputs of upper case, lowercase, special characters, and numbers.  It will unclude or omit those characters based on intput as well as make the password as long or as short as desired.
